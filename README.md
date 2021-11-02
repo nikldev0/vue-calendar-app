@@ -2,7 +2,7 @@
 
 ## Component Architecture
 
-![component structure](../calendar-app/src/assets/calendar-app-component-architecture.png)
+![component structure](./calendar-app-component-architecture.png)
 
 ## Key Features:
 
@@ -10,7 +10,7 @@ This project uses the Options API with a hardcoded but reactive store, using imp
 
 A user can select the date they would like to pin an event to, write a custom event, edit the event title and also delete events.
 
-![app preview](../calendar-app/src/assets/calendar.gif)
+![app preview](./calendar.gif)
 
 ## Things learnt/practiced:
 
